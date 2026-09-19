@@ -22,7 +22,7 @@ My recent work includes the study of dimensional crossover phenomena in Gaussian
 
 Open-source Python library for constructing and analyzing electromagnetic fields through discrete plane-wave expansions.
 
-Repository: [VectorWaves](https://github.com/1Rayokelvin/VectorWaves)
+Repository: [VectorWaves](https://github.com/M-Soni-Physics/VectorWaves)
 
 ## Technical Skills
 
@@ -34,6 +34,6 @@ Repository: [VectorWaves](https://github.com/1Rayokelvin/VectorWaves)
 
 ## Links
 
-* Website: https://1rayokelvin.github.io
-* GitHub: https://github.com/1Rayokelvin
+* Website: https://m-soni-physics.github.io
+* GitHub: https://github.com/M-Soni-Physics
 * PyPI: https://pypi.org/project/vectorwaves/
